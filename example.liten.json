@@ -1,0 +1,679 @@
+{
+	"article_id": 35408,
+	"submitted": "2022",
+	"suggest": ["liten"],
+	"lemmas": [
+		{
+			"final_lexeme": "liten",
+			"hgno": 0,
+			"id": 41179,
+			"inflection_class": null,
+			"initial_lexeme": "",
+			"junction": "",
+			"lemma": "liten",
+			"neg_junction": null,
+			"paradigm_info": [
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "lita" },
+						{ "tags": ["Pos", "Neuter", "Ind", "Sing"], "word_form": "lite" },
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "lille" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 529,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "liten" },
+						{ "tags": ["Pos", "Neuter", "Ind", "Sing"], "word_form": "lite" },
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "lille" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 530,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "lita" },
+						{
+							"tags": ["Pos", "Neuter", "Ind", "Sing"],
+							"word_form": "sm\u00e5tt"
+						},
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "lille" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 531,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "liten" },
+						{
+							"tags": ["Pos", "Neuter", "Ind", "Sing"],
+							"word_form": "sm\u00e5tt"
+						},
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "lille" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 532,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "lita" },
+						{ "tags": ["Pos", "Neuter", "Ind", "Sing"], "word_form": "lite" },
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "vesle" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 537,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "lita" },
+						{
+							"tags": ["Pos", "Neuter", "Ind", "Sing"],
+							"word_form": "sm\u00e5tt"
+						},
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "vesle" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 538,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "liten" },
+						{ "tags": ["Pos", "Neuter", "Ind", "Sing"], "word_form": "lite" },
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "vesle" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 539,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				},
+				{
+					"from": "1996-01-01",
+					"inflection": [
+						{
+							"tags": ["Pos", "Masc/Fem", "Ind", "Sing"],
+							"word_form": "liten"
+						},
+						{ "tags": ["Pos", "Fem", "Ind", "Sing"], "word_form": "liten" },
+						{
+							"tags": ["Pos", "Neuter", "Ind", "Sing"],
+							"word_form": "sm\u00e5tt"
+						},
+						{ "tags": ["Pos", "Def", "Sing"], "word_form": "vesle" },
+						{ "tags": ["Pos", "Plur"], "word_form": "sm\u00e5" },
+						{ "tags": ["Cmp"], "word_form": "mindre" },
+						{ "tags": ["Sup", "Ind"], "word_form": "minst" },
+						{ "tags": ["Sup", "Def"], "word_form": "minste" }
+					],
+					"inflection_group": "ADJ_masc/fem_fem",
+					"paradigm_id": 540,
+					"standardisation": "STANDARD",
+					"tags": ["ADJ"],
+					"to": null
+				}
+			],
+			"split_inf": null
+		}
+	],
+	"body": {
+		"pronunciation": [],
+		"etymology": [
+			{
+				"type_": "etymology_language",
+				"content": "$ $, $ $",
+				"items": [
+					{ "type_": "language", "id": "norr." },
+					{ "type_": "usage", "text": "l\u00edtill" },
+					{ "type_": "grammar", "id": "akk" },
+					{ "type_": "usage", "text": "l\u00edtinn" }
+				]
+			}
+		],
+		"definitions": [
+			{
+				"type_": "definition",
+				"elements": [
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "under middels h\u00f8y",
+								"items": []
+							},
+							{
+								"type_": "explanation",
+								"content": "som ikke er stor",
+								"items": []
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "v\u00e6re $ av vekst",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "$ porsjon",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "bo i en $ by",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "et lite hus", "items": [] }
+							}
+						],
+						"id": 2
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "sv\u00e6rt ung, ikke voksen",
+								"items": []
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "hun har sm\u00e5 barn", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "da jeg var lita", "items": [] }
+							}
+						],
+						"id": 5
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "$, $",
+								"items": [
+									{
+										"type_": "article_ref",
+										"article_id": 31763,
+										"lemmas": [{ "hgno": 0, "lemma": "kortvarig" }],
+										"definition_id": null
+									},
+									{
+										"type_": "article_ref",
+										"article_id": 30425,
+										"lemmas": [{ "hgno": 2, "lemma": "knapp" }],
+										"definition_id": null
+									}
+								]
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "ha $ tid",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "en $ time",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "en $ pause",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "en $ stund",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							}
+						],
+						"id": 10
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "$, $",
+								"items": [
+									{
+										"type_": "article_ref",
+										"article_id": 63693,
+										"lemmas": [{ "hgno": 0, "lemma": "ubetydelig" }],
+										"definition_id": null
+									},
+									{
+										"type_": "article_ref",
+										"article_id": 58530,
+										"lemmas": [{ "hgno": 0, "lemma": "svak" }],
+										"definition_id": null
+									}
+								]
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "vise $ interesse for noe",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "det spiller $ rolle hva du gj\u00f8r",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "en $ feil",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "kjenne seg $",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							},
+							{
+								"type_": "sub_article",
+								"article_id": 103702,
+								"lemmas": ["gj\u00f8re seg liten"],
+								"article": {
+									"body": {
+										"type_": "article",
+										"lemmas": [
+											{
+												"final_lexeme": "gj\u00f8re seg liten",
+												"hgno": 0,
+												"id": 1143082,
+												"inflection_class": null,
+												"initial_lexeme": "",
+												"junction": "",
+												"lemma": "gj\u00f8re seg liten",
+												"neg_junction": null,
+												"paradigm_info": [
+													{
+														"from": "2019-01-01",
+														"inflection": [],
+														"inflection_group": "EXPR",
+														"paradigm_id": 2470,
+														"standardisation": "REGISTERED",
+														"tags": ["EXPR"],
+														"to": null
+													}
+												],
+												"split_inf": false
+											}
+										],
+										"pronunciation": [],
+										"definitions": [
+											{
+												"type_": "definition",
+												"elements": [
+													{
+														"type_": "explanation",
+														"content": "vise seg sm\u00e5lig; nedverdige seg",
+														"items": []
+													}
+												],
+												"id": 2
+											}
+										],
+										"homographs": [0],
+										"word_class": null,
+										"word_forms": ["gj\u00f8re seg liten"]
+									}
+								},
+								"intro": { "content": "", "items": [] }
+							}
+						],
+						"id": 12
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "som $:",
+								"items": [{ "type_": "grammar", "id": "subst" }]
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "venter barn", "items": [] },
+								"quote": {
+									"content": "hun skal ha en $",
+									"items": [{ "type_": "usage", "text": "liten" }]
+								}
+							}
+						],
+						"id": 11
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "som $: ikke mye",
+								"items": [{ "type_": "grammar", "id": "subst" }]
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "hun er lite tess", "items": [] },
+								"quote": { "content": "det er lite ved henne", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "han er lite \u00e5 se p\u00e5",
+									"items": []
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": {
+									"content": "spille liten rolle, ha liten innvirkning",
+									"items": []
+								},
+								"quote": { "content": "ha lite \u00e5 si", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "ha lite \u00e5 leve av", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "det skal lite til", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "det var lite om \u00e5 gj\u00f8re",
+									"items": []
+								}
+							}
+						],
+						"id": 16
+					},
+					{
+						"type_": "definition",
+						"elements": [
+							{
+								"type_": "explanation",
+								"content": "som $, trykktungt:",
+								"items": [{ "type_": "grammar", "id": "adv" }]
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "det var lite hyggelig gjort",
+									"items": []
+								}
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "lite fisk, folk, sn\u00f8", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": { "content": "det er lite sannsynlig", "items": [] }
+							},
+							{
+								"type_": "example",
+								"explanation": { "content": "", "items": [] },
+								"quote": {
+									"content": "kjenne lite til forholdene",
+									"items": []
+								}
+							},
+							{
+								"type_": "sub_article",
+								"article_id": 103703,
+								"lemmas": ["v\u00e6re lite for seg"],
+								"article": {
+									"body": {
+										"type_": "article",
+										"lemmas": [
+											{
+												"final_lexeme": "v\u00e6re lite for seg",
+												"hgno": 0,
+												"id": 1141185,
+												"inflection_class": null,
+												"initial_lexeme": "",
+												"junction": "",
+												"lemma": "v\u00e6re lite for seg",
+												"neg_junction": null,
+												"paradigm_info": [
+													{
+														"from": "2019-01-01",
+														"inflection": [],
+														"inflection_group": "EXPR",
+														"paradigm_id": 2470,
+														"standardisation": "REGISTERED",
+														"tags": ["EXPR"],
+														"to": null
+													}
+												],
+												"split_inf": false
+											}
+										],
+										"pronunciation": [],
+										"definitions": [
+											{
+												"type_": "definition",
+												"elements": [
+													{
+														"type_": "explanation",
+														"content": "(v\u00e6re) tiltaksl\u00f8s, blyg",
+														"items": []
+													}
+												],
+												"id": 2
+											}
+										],
+										"homographs": [0],
+										"word_class": null,
+										"word_forms": ["v\u00e6re lite for seg"]
+									}
+								},
+								"intro": { "content": "", "items": [] }
+							},
+							{
+								"type_": "sub_article",
+								"article_id": 103704,
+								"lemmas": ["Lite godt"],
+								"article": {
+									"body": {
+										"type_": "article",
+										"lemmas": [
+											{
+												"final_lexeme": "Lite godt",
+												"hgno": 0,
+												"id": 1143974,
+												"inflection_class": null,
+												"initial_lexeme": "",
+												"junction": "",
+												"lemma": "Lite godt",
+												"neg_junction": null,
+												"paradigm_info": [
+													{
+														"from": "2019-01-01",
+														"inflection": [],
+														"inflection_group": "EXPR",
+														"paradigm_id": 2470,
+														"standardisation": "REGISTERED",
+														"tags": ["EXPR"],
+														"to": null
+													}
+												],
+												"split_inf": false
+											}
+										],
+										"pronunciation": [],
+										"definitions": [
+											{
+												"type_": "definition",
+												"elements": [
+													{
+														"type_": "explanation",
+														"content": "f\u00f8r: d\u00e5rligste karakter (i grunnskolen)",
+														"items": []
+													}
+												],
+												"id": 2
+											}
+										],
+										"homographs": [0],
+										"word_class": null,
+										"word_forms": ["Lite godt"]
+									}
+								},
+								"intro": { "content": "", "items": [] }
+							}
+						],
+						"id": 17
+					}
+				],
+				"id": 3
+			}
+		]
+	},
+	"to_index": [
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"liten",
+		"l\u00edtill",
+		"l\u00edtinn"
+	]
+}
