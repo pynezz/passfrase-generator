@@ -100,6 +100,9 @@ def iterate():
             print(line)
 
 def generate_word():
+    with open(adj_sub_path + adjektiv.name + adjektiv.filetype, 'r', encoding='utf-8') as f:
+        lemmas = [line.strip().lower() for line in f]
+
     root = random.choice(lemmas)
     use_prefix = random.choice([True, False])
     use_suffix = random.choice([True, False])
@@ -127,14 +130,39 @@ def generate_word():
 if __name__ == '__main__':
     gen_from_adjektiv()
 
-# vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    for _ in range(10):
+        print(generate_word())
+
+######################################
 # TTTTTTTTTT  ooo   DDD    ooo  
 #     TT     O   O  D  D  O   O
 #     TT     O   O  D  D  O   O
 #     TT      OOO   DDD    OOO 
-# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+#
+#
 # [x] - Adjektiv
 # [ ] - Substantiv
-# [ ] - Mer
-
+# [ ] - N-gram, Markov
+#
+######################################
+# yrtblid
+# ørtkon
+# odtkars
+# pensmul
+# garvrie
+# rendyp
+# rakhul
+# purjam
+# rargråbrun
+# barbleik
+# inndyrteri
+# knallgodtsjon
+# behoppklart
+# rødhvittsjon
+# overferskteri
+# uhalvvarmt
+# besidt
+# utunøytraltsjon
+# utfalsktskap
+# ufrelsteri
+####################################
