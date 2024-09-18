@@ -1,6 +1,7 @@
 # Passfrasegenerator
+:norway:	
 
-En generator som genererer norske ord som høres korrekte ut, men som ikke eksisterer.
+En generator som genererer norske ord som høres korrekte ut, men som ikke eksisterer. 
 
 >[!WARNING]
 > *Work in progress*  
