@@ -52,3 +52,7 @@ En generator som genererer norske ord som høres korrekte ut, men som ikke eksis
 
 `blovitt:fradkasse:fibelke:bret`
 
+
+## Credits
+
+**[Ordbanken](https://www.nb.no/sprakbanken/ressurskatalog/?_search=ordbank)** av [Språkrådet, Universitetet i Bergen](https://ordbokene.no/), Nasjonalbiblioteket (18.09.2024) er lisensiert under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
